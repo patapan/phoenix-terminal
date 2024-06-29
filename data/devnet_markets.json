@@ -1,0 +1,22 @@
+[
+    {
+      "account": "CS2H8nbAVVEUHWPF5extCSymqheQdkd4d7thik6eet9N",
+      "base_ticker": "SOL",
+      "quote_ticker": "USDC"
+    },
+    {
+      "account": "78ehDnHgbkFxqXZwdFxa8HK7saX58GymeX2wNGdkqYLp",
+      "base_ticker": "wSOL",
+      "quote_ticker": "USDC-Drift"
+    },
+    {
+      "account": "H3sb3W8VfKswTJsQM3MC7Ax1NzUcVYuuS3TnKpZiKV2L",
+      "base_ticker": "Bonk",
+      "quote_ticker": "USDC"
+    },
+    {
+      "account": "HBEs1zhmqaKTRdx25W2uFMVV5YxojWDutR2fWBe3idYy",
+      "base_ticker": "Bonk",
+      "quote_ticker": "SOL"
+    }
+  ]
